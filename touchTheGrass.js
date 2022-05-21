@@ -1,6 +1,6 @@
 function bruhMoment(x)
 {
-  new Audio('VineBoom.mp3').play();
+  new Audio('Vine boom.mp3').play();
   var image = document.getElementById("image");
   var text = document.getElementById("text");
   if(x == 1)
