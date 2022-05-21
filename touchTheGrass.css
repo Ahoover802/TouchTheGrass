@@ -1,0 +1,45 @@
+#navbar
+{
+  background-color: blue;
+  width:100%;
+  height:12%;
+  margin: 0px;
+  border-bottom: 4px solid black;
+  border-left: 4px solid black;
+}
+#navbar li{
+  position:static;
+  text-decoration: none;
+  display: inline;
+  float: right;
+  padding-left: 30px;
+  padding-right: 45px;
+  padding-top: 30px;
+  padding-bottom: 34px;
+}
+#navbar li a{
+  font-family: monospace;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+input{
+  background-color:red;
+}
+table{
+  padding-top: 20%;
+  padding-left:15%;
+}
+#text
+{
+  color: #E711BA;
+  padding-top:2%;
+  width:20%;
+  height:25%;
+}
+body{
+  background-color: #09FFD5;
+  margin:0px;
+  padding:0px;
+  border:0px;
+}
